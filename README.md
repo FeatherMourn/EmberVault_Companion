@@ -1,5 +1,8 @@
 # Ember Vault Companion
 
+See [ACKNOWLEDGEMENTS.md](ACKNOWLEDGEMENTS.md) for upstream project credit,
+license information, and attribution rules.
+
 Ember Vault Companion is a separate coordination project for building a
 stronger, build-aware Enshrouded modding workflow. It develops interoperability
 between EML 2.0, ShroudForge, and EmberVault tools without merging loaders.
